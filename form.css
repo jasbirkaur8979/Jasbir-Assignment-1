@@ -1,0 +1,24 @@
+h1{
+    color:darkred;
+    margin-left: 5em;
+}
+label {
+    color: darkred;
+    float: left;
+    width: 10em;
+    font-weight: bold;
+    text-align: center;
+    }
+
+input {
+    width: 15em;
+    margin-left: 1em;
+    margin-bottom: .5em;}
+
+    #button {
+        width: 10em;
+        box-shadow: 2px 2px 0 darkred;
+        background-color: rgb(244, 195, 195); }
+    
+    #button { 
+        margin-left: 9.5em; }

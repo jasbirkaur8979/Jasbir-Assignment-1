@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: #f14a60;
+}
+h2{
+    color: #f14a60;
+    text-align: center;
+}
+div img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+dt{
+    color: #f14a60;
+    font-weight: bold;
+}
+dd{
+    color: #f14a60;
+    font-weight: bold;
+}
